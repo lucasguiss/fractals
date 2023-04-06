@@ -1,5 +1,5 @@
 # fractals
 
-- [ ] Tree
+- [ x ] Tree
 - [ ] Object oriented tree
 - [ ] Mandelbulb
